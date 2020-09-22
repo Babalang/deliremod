@@ -1,6 +1,0 @@
-name: "delire-mod"
-displayName: "[yellow]delire[gold] Mod" //what displays in the mod selection menu
-author: "babalang"
-description: "un mod pour test et pour le délire"
-version: "0.0"
-minGameVersion: "101"
