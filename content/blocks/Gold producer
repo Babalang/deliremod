@@ -1,0 +1,34 @@
+type: GenericSmelter
+name: Gold producer
+description: the american dream is in your hands.
+liquidCapacity: 50
+itemStack: 100
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 50
+  items: {
+    items: [
+	gold-powder/2
+	titanium/8
+    ]
+  }
+  liquid: {
+    liquid:water
+    amount: 1
+  }
+}
+requirements: [
+  copper/750
+  thorium/150
+  silicon/300
+  ]
+category: crafting
+research: conveyor
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: gold/1
