@@ -31,4 +31,4 @@ category: crafting
 research: conveyor
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: diamond/1
+outputItem: gold-powder/1
