@@ -2,6 +2,7 @@ type: GenericSmelter
 name: goldenpress
 description: sand+scorie = golden sand.
 liquidCapacity: 50
+itemCapacity: 100
 size: 2
 hasPower: true
 hasLiquids: true
