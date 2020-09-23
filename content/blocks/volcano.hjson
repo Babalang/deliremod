@@ -13,7 +13,7 @@ consumes: {
   items: {
     items: [
 	gold-powder/10
-	coal/50
+	coal/5
     ]
   }
   liquid: {
