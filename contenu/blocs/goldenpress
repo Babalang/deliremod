@@ -1,0 +1,34 @@
+type: GenericSmelter
+name: presse dorée
+description: sable + scorie = poudre d'or
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.7
+  items: {
+    items: [
+	sable/30
+	coal/5
+    ]
+  }
+  liquid: {
+    liquid:scorie
+    amount: 1
+  }
+}
+requirements: [
+  copper/500
+  thorium/80
+  silicon/160
+  graphite/200
+]
+category: crafting
+research: conveyor
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: diamond/1
