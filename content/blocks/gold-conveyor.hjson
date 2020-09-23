@@ -1,0 +1,12 @@
+type: Conveyor
+name: Gold conveyor
+description: fatest conveyor.
+requirements: [
+  titanium/3
+  copper/3
+  lead/3
+  gold/3
+]
+category: distribution
+speed: 2
+research: titanium-conveyor

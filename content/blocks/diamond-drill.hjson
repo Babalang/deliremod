@@ -1,0 +1,22 @@
+name: Diamond Drill
+description: A very strange drill.
+type: Drill
+size: 4
+tier: 5
+drillTime: 10
+rotateSpeed: 100
+consumes: {
+  power: 50
+  liquid: {
+    liquid: water
+    amount: 0.1
+    booster: true
+  }
+}
+requirements: [
+  diamond/80
+  silicon/40
+  graphite/20
+]
+category: production
+research: laser-drill

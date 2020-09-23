@@ -1,0 +1,29 @@
+type: DoubleTurret
+name: golden Turret
+description: Sprays useless gold bullets everywhere. What a mess.
+health: 2000
+size: 1
+reload: 4
+range: 1000
+ammoUseEffect: shootBig
+accuracy: 100
+rotatespeed: 18
+ammo: {
+  gold: {
+    speed: 9
+    damage: 555
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 5
+  }
+}
+requirements: [
+  gold/40
+  copper/700
+  thorium/70
+]
+category: turret
+research: meltdown
+

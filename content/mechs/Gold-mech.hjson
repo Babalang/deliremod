@@ -1,0 +1,16 @@
+name: Gold
+description: An unnaturally elongated mech. Spews messy lightning all over your enemies.
+speed: 6
+boostSpeed: 1.5
+buildPower: 7
+engineColor: "666495"
+flying: true
+health: 3000
+weaponOffsetX: 7
+weapon: {
+  name: gold-blaster
+  length: 10
+  reload: 8
+  alternate: true
+  bullet: standardIncendiaryBig
+}

@@ -1,0 +1,34 @@
+type: GenericSmelter
+name: diamond volcano
+description: gold + coal + a volcano = diamond.
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.7
+  items: {
+    items: [
+	gold-powder/10
+	coal/50
+    ]
+  }
+  liquid: {
+    liquid:water
+    amount: 1
+  }
+}
+requirements: [
+  copper/500
+  thorium/80
+  silicon/160
+  gold/80
+]
+category: crafting
+research: conveyor
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: diamond/1

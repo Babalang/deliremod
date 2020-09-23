@@ -1,0 +1,16 @@
+name: Gold Mech Pad
+description: Transform into the Gold mech.
+type: MechPad
+mech: Gold-mech
+size: 4
+consumes: {
+  power: 100
+}
+category: upgrade
+research: wraith-factory
+requirements: [
+  gold/70
+  diamond/40
+  silicon/40
+  graphite/50
+]
