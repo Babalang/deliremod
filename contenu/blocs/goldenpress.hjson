@@ -17,7 +17,7 @@ consumes: {
     ]
   }
   liquid: {
-    liquid:scorie
+    liquid:slag
     amount: 1
   }
 }
