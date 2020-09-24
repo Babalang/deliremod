@@ -9,13 +9,13 @@ powerProduction: 100
 consumes: {
   items: {
     items: [
-      gold-powder/1
+      gold-powder/5
     ]
     optional: true
   }
 }
 requirements: [
-  metaglass/80
+  thorium/80
   silicon/60
   gold/50
 ]
