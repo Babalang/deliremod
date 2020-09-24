@@ -2,14 +2,14 @@ type: GenericSmelter
 name: diamond volcano
 description: gold + coal + a volcano = diamond.
 liquidCapacity: 50
-size: 2
+size: 3
 hasPower: true
 hasLiquids: true
 hasItems: true
 craftTime: 60
 updateEffect: smeltsmoke
 consumes: {
-  power: 0.7
+  power: 30
   items: {
     items: [
 	gold-powder/10
