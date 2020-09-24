@@ -2,7 +2,7 @@ name: diamond Wall
 description: A wall made of diamond. Not particularly useful or interesting.
 type: Wall
 health: 60000
-size: 4
+size: 1
 requirements: [
   diamond/1000
 ]
