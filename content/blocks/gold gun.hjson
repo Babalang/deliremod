@@ -1,14 +1,15 @@
 shootSound: swings
+size:3
 ammo: {
   copper: standardCopper
   graphite: standardDense
   pyratite: standardIncendiary
   silicon: standardHoming
   gold: {
-    speed: 10.0
-    damage: 300
+    speed: 7.5
+    damage: 150
     reloadMultiplier: 0.5
-    bulletWidth: 7
+    bulletWidth: 5
     bulletHeight: 9
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
