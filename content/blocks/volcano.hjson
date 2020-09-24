@@ -12,7 +12,7 @@ consumes: {
   power: 30
   items: {
     items: [
-	gold-powder/10
+	gold/10
 	coal/5
     ]
   }
