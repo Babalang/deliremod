@@ -2,7 +2,7 @@ name: Diamond Wraith Factory
 description: Makes Diamond Wraith units.
 type: UnitFactory
 unitType: Diamond-wraith
-size: 4
+size: 2
 produceTime: 150
 consumes: {
   power: 100
