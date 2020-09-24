@@ -3,7 +3,7 @@ name: Gold producer
 description: the american dream is in your hands.
 liquidCapacity: 50
 itemStack: 100
-size: 2
+size: 3
 hasPower: true
 hasLiquids: true
 hasItems: true
